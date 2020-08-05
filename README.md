@@ -8,4 +8,4 @@
 <p>-- Busco aprender sobre programação por interesse pessoal na área de tecnologia, mas também como forma de aprimorar meu desempenho e, principalmente meu alcance, nas áreas em que atuo. </p>
 
 <br/>Entre em contato comigo!
-<br/>[![Gmail Badge]Leoanunes96@gmail.com
+<br/> Leoanunes96@gmail.com
