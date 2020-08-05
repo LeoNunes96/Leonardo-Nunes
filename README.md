@@ -7,5 +7,5 @@
 <p>-- Atualmente trabalho em uma fazenda marinha, coordenando um grupo de maricultores. Juntos cultivamos mariscos como Vieira e Ostras. </p>
 <p>-- Busco aprender sobre programação por interesse pessoal na área de tecnologia, mas também como forma de aprimorar meu desempenho e, principalmente meu alcance, nas áreas em que atuo. </p>
 
-Entre em contato comigo!
-[![Gmail Badge]Leoanunes96@gmail.com
+<br/>Entre em contato comigo!
+<br/>[![Gmail Badge]Leoanunes96@gmail.com
