@@ -9,3 +9,7 @@
 
 <br/>Entre em contato comigo!
 <br/> Leoanunes96@gmail.com
+
+## Local Development
+
+1. Open index.html in your browser.
