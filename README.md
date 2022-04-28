@@ -5,11 +5,7 @@
 
 <p> -- Sou formado em Ciências Sociais </p>
 <p> -- Estou cursando Ciência da Computação </p>
-<p>-- Busco aprender sobre programação por interesse pessoal na área de tecnologia, mas também como forma de aprimorar meu desempenho e, principalmente meu alcance, nas áreas em que atuo. </p>
+<p>-- Busco aprender sobre programação por interesse pessoal na área de tecnologia, mas também como forma de aprimorar meu desempenho e, principalmente, meu alcance nas áreas em que atuo. </p>
 
 <br/>Entre em contato comigo!
 <br/> Leoanunes96@gmail.com
-
-## Local Development
-
-1. Open index.html in your browser.
